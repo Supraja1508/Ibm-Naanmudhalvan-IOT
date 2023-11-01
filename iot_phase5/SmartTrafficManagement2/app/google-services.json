@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "682118150984",
+    "firebase_url": "https://smarttrafficmanagement-1d518-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smarttrafficmanagement-1d518",
+    "storage_bucket": "smarttrafficmanagement-1d518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682118150984:android:a8e5fe0e6014177a81d17d",
+        "android_client_info": {
+          "package_name": "com.example.smarttrafficmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682118150984-ub7rs4ssok207ujjvgimtevj0kk4j4ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWA0orafJlzDV_4clDQ7DqaqxzZ-fS384"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682118150984-ub7rs4ssok207ujjvgimtevj0kk4j4ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
